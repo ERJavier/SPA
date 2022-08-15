@@ -1,0 +1,26 @@
+{
+  "name": "cientifico",
+  "version": "1.0.0",
+  "description": "single page application",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ERJavier/SPA.git"
+  },
+  "keywords": [
+    "javascript",
+    "single",
+    "page",
+    "node",
+    "webpack"
+  ],
+  "author": "Javier Cepeda <erjavierc@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ERJavier/SPA/issues"
+  },
+  "homepage": "https://github.com/ERJavier/SPA#readme"
+}
