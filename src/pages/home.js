@@ -9,6 +9,7 @@ const Home = () =>{
         </article>
     </div>
     `;
+    return Home;
 }
 
 export default Home;
